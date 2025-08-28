@@ -1,3 +1,4 @@
+#DASHBOARD RH
 Este é um dashboard interativo de Recursos Humanos, construído com Streamlit, para análise e visualização de dados de funcionários. O objetivo é fornecer uma visão rápida e detalhada sobre a força de trabalho da empresa, com gráficos, filtros e a possibilidade de exportar os dados filtrados.
 
 Funcionalidades Principais
